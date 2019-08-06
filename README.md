@@ -1,2 +1,2 @@
 # hamza
-hamza repo
+hamza repo start up for beginners 
